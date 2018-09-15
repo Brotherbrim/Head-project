@@ -1,3 +1,19 @@
+Body, Html {
+  hight: 100%;
+  
+
+}
+
+.bg { 
+  background-image: url("swing.jpg");
+  hight:100%;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  
+}
+
+
 
 h1 {
   color:grey;
@@ -17,7 +33,4 @@ h2 {
 border-radius: 50%;
 }
 
-body  {
-background:#b4cbd6 url("skelly.jpg") no-repeat Right top; 
-  
-  }
+
