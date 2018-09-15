@@ -4,7 +4,8 @@ Body, Html {
 
 }
 
-.bg { 
+body {
+  background color:#e6dfcf;
   background-image: url("swing.jpg");
   hight:100%;
   background-position:center;
