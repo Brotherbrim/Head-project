@@ -9,20 +9,16 @@ h1 {
 h2 {
   color: red;
   
-
-
 }
 
 
 
 .swing {
-border-radius 50%;
-s
-
+border-radius: 50%;
 }
 
 body {
 
-background-image:url("swing.jpg";
+background-image:url("swing.jpg");
   
   }
